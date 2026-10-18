@@ -1,0 +1,17 @@
+[
+    {
+        "label": "CPU",
+        "value": 90,
+        "limit": 80
+    },
+    {
+        "label": "Memory",
+        "value": 60,
+        "limit": 70
+    },
+    {
+        "label": "Disk",
+        "value": 95,
+        "limit": 90
+    }
+]

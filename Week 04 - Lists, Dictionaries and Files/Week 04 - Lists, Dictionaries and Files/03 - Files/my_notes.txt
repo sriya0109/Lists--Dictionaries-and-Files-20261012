@@ -1,0 +1,3 @@
+Today I learnt about Lists, Dictionaries and Files.
+Lists can store multiple values.
+Practice helps me improve.
